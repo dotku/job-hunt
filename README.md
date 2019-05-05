@@ -30,4 +30,5 @@ but it is actually just one step of many possibilities. Server private companies
 Continous popularity would be the key. It make your company famous.
 
 4. World Wide Impact
-Many local stores are pouplar, but they are just local store. The best few must have world wide impact.
+Many local stores are pouplar, but they are just local store. The best few (it might be the 500 hundreds) 
+are always have world wide impact.
