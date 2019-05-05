@@ -96,5 +96,5 @@ https://channels.theinnovationenterprise.com/articles/san-francisco-s-20-most-ex
 - Keywords: Slack alike
 
 ## San Francisco Startups
-https://www.crunchbase.com/hub/san-francisco-startups#section-overview
+https://www.crunchbase.com/hub/san-francisco-startups#section-overview  
 San Francisco Startups isn't the best rank in crunchbase, but the #1385, San Francisco Bay Area ranks as #2, and West US ranks as #1.
