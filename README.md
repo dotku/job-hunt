@@ -15,6 +15,9 @@ Challenge 1. People are shy or afraid to explose their own self
 Solution: it needs create a privice control manager to help them match the disierd company, 
 without hurting their current position or life.
 
+I might want to use local storage first for the problem, then use cloud store (eg. Firebase) for database 
+hosting.
+
 ## Principles
 
 1. Innovation  
